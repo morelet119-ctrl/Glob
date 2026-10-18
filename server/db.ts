@@ -211,7 +211,7 @@ function seedInitialData() {
         'default',
         'Globevibes',
         'The premier destination for music news, entertainment, trending stories, celebrity buzz, and African entertainment culture.',
-        'https://globevibes.com',
+        'https://globevibess.jo3.org',
         'Globevibes – Music, Entertainment, African Beats & Trending News',
         'Discover the latest music releases, Afrobeats superstars, Nollywood cinema, celebrity exclusives, and viral trending entertainment on Globevibes.',
         'https://x.com/globevibes',

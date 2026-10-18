@@ -1,6 +1,8 @@
+# Robots.txt for Globevibes
 User-agent: *
-Allow: /
 Disallow: /admin
-Disallow: /api/
+Disallow: /api/admin
+Disallow: /api/auth
+Allow: /
 
-Sitemap: https://globevibes.com/sitemap.xml
+Sitemap: https://globevibess.jo3.org/sitemap.xml

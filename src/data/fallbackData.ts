@@ -4,7 +4,7 @@ export const FALLBACK_SETTINGS: SiteSettings = {
   id: 'default',
   site_name: 'Globevibes',
   site_description: 'The premier destination for music news, entertainment, trending stories, celebrity buzz, and African entertainment culture.',
-  site_url: 'https://globevibes.com',
+  site_url: 'https://globevibess.jo3.org',
   default_seo_title: 'Globevibes – Music, Entertainment, African Beats & Trending News',
   default_seo_description: 'Discover the latest music releases, Afrobeats superstars, Nollywood cinema, celebrity exclusives, and viral trending entertainment on Globevibes.',
   social_twitter: 'https://x.com/globevibes',
